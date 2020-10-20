@@ -71,7 +71,7 @@ function doComplete() {
 }
 
 
-const scriptURL = 'https://script.google.com/a/uef.edu.vn/macros/s/AKfycbziLX49fNE1DDozVmZf2Ys5fmxuCYTKO1ZKjwCs/exec';
+const scriptURL = 'https://script.google.com/a/uef.edu.vn/macros/s/AKfycbxvKHoykK8rCBKdpqz9uDETQDvR4rmUZ3Awf3QcEA/exec';
 
 const loading = document.querySelector('.js-loading');
 const successMessage = document.querySelector('.js-success-message');
